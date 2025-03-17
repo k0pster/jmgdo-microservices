@@ -1,3 +1,3 @@
 # jmgdo-microservices
 Basic CRUD Operations with Python
-Using Postman, Swagger and graphQL
+.Using Postman, Swagger and graphQL
